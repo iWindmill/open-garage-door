@@ -38,7 +38,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -96,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be891004efa35e7b",
@@ -143,10 +141,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "8d963a16f6033e41",
+  "active": "2b430c1f752440a1",
   "lastOpenFiles": [
-    "2026-01-08-0542.md",
     "index.md",
+    "2026-01-08-0542.md",
     "2026-01-05-1315.md",
     "2026-01-05-1314.md",
     "2026-01-05-1009.md",
@@ -156,7 +154,6 @@
     "2026-01-04-1740-cycle-flat-healthy-waist.md",
     "2026-01-04-1739-flat-healthy-waist.md",
     "2026-01-04-1737.md",
-    "index.md",
     "2026-01-04-2210-ease-of-use-of-the-living-room.md",
     "2026-01-04-1748.md",
     "2026-01-04-2211.md",
