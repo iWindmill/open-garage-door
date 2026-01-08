@@ -14,15 +14,31 @@
               "type": "markdown",
               "state": {
                 "file": "2026-01-08-0542.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "2026-01-08-0542"
             }
+          },
+          {
+            "id": "8d963a16f6033e41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "index.md"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -127,9 +143,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2b430c1f752440a1",
+  "active": "8d963a16f6033e41",
   "lastOpenFiles": [
     "2026-01-08-0542.md",
+    "index.md.md",
     "2026-01-05-1315.md",
     "2026-01-05-1314.md",
     "2026-01-05-1009.md",
@@ -154,7 +171,6 @@
     "01-04-2026_09-29.md",
     "2026-01-04-1603.md",
     "2026-01-04-1602-cycle.-living-ideas.md",
-    "2026-01-04-1558-living-ideas.md",
     "Карты того, что должно быть, или ценностей. 28 ноября 2025.beamer.tex",
     "Support 24",
     "2024.10.17.1300.har",
