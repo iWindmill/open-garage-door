@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "myCss",
+    "limitHeightCode"
+  ],
+  "showViewHeader": false,
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "baseFontSize": 20,
+  "showRibbon": false,
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono"
+}

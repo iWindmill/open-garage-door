@@ -1,0 +1,4 @@
+/* custom-styles.css */
+.markdown-preview-view code {
+  max-height: 15rem;
+}

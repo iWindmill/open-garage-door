@@ -1,0 +1,15 @@
+{
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A5",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": false,
+  "foldHeading": true,
+  "showInlineTitle": false,
+  "showLineNumber": true
+}

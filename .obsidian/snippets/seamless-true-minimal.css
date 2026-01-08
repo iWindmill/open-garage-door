@@ -1,0 +1,46 @@
+/* === Полностью бесшовные встраивания — как обычный текст === */
+
+/* Убираем обёртку в <p> вокруг embed'а (важно для Live Preview и Reading View) */
+.markdown-preview-view p:has(.markdown-embed) {
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1 !important;
+}
+
+/* Основной embed-контейнер */
+.markdown-preview-view .markdown-embed {
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  background: none !important;
+  box-shadow: none !important;
+  min-height: auto !important;
+  display: inline-block !important; /* ключевое: ведёт себя как текст */
+  width: auto !important;
+  max-width: none !important;
+}
+
+/* Убираем заголовок файла (если включён) */
+.markdown-embed .markdown-embed-link {
+  display: none !important;
+}
+
+/* Контент внутри embed'а */
+.markdown-embed-content {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.markdown-embed-content > div {
+  margin: 0 !important;
+  padding: 0 !important;
+  /* Сохраняем тот же line-height, что и в основном тексте */
+  line-height: var(--line-height, 1.5) !important;
+}
+
+/* Дополнительно: убираем отступы, если embed стоит в начале/конце параграфа */
+.markdown-preview-view .markdown-embed + *,
+* + .markdown-embed {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}

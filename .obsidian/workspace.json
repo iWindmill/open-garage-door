@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "8377005cf2424ae5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe76d06a1dd76213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b430c1f752440a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-01-08-0542.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-08-0542"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4ecc42c583a5084",
+    "type": "split",
+    "children": [
+      {
+        "id": "627238cd94b58f22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b68c33a5f41e262",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "27939470bb63ac49",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "85b3cc85e8cc3f66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "шаблониза",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "be891004efa35e7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "92277ceee88848cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c2e2d8a7de07fac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "2b430c1f752440a1",
+  "lastOpenFiles": [
+    "2026-01-08-0542.md",
+    "2026-01-05-1315.md",
+    "2026-01-05-1314.md",
+    "2026-01-05-1009.md",
+    "2026-01-05-1229.md",
+    "2026-01-05-1302.md",
+    "2026-01-05-1301.md",
+    "2026-01-04-1740-cycle-flat-healthy-waist.md",
+    "2026-01-04-1739-flat-healthy-waist.md",
+    "2026-01-04-1737.md",
+    "index.md",
+    "2026-01-04-2210-ease-of-use-of-the-living-room.md",
+    "2026-01-04-1748.md",
+    "2026-01-04-2211.md",
+    "2026-01-04-1751.md",
+    "2026-01-04-2209.md",
+    "2026-01-04-2201.md",
+    "01-04-2026_09-35.md",
+    "01-04-2026_09-28.md",
+    "01-04-2026_09-30.md",
+    "01-04-2026_09-24.md",
+    "01-04-2026_09-27.md",
+    "01-04-2026_09-29.md",
+    "2026-01-04-1603.md",
+    "2026-01-04-1602-cycle.-living-ideas.md",
+    "2026-01-04-1558-living-ideas.md",
+    "Карты того, что должно быть, или ценностей. 28 ноября 2025.beamer.tex",
+    "Support 24",
+    "2024.10.17.1300.har",
+    "Pinterest, Grouping Activities into.jpg",
+    "False hypothesis",
+    "logs/2024.9.18.html",
+    "logs",
+    "templates",
+    "tasks",
+    "stories"
+  ]
+}

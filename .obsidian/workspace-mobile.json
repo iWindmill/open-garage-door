@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "5fe555c820a122a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d823abdf7bf6b1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12af5a9d5b2c5835",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тайная опора. 13 ноября 2024.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Тайная опора. 13 ноября 2024"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea9344a4ea5fd6e9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "688aae72bbb90232",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "b336796491685036",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "cd5df2bde6388c32",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "acf97f7fd030d408",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "85407dcbd50c602d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "34f997eed4fdc1e5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Vacation 30 December - 12 January.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "0579c800053fb28d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Чек-листы. 29 апреля 2025.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "9e7b958957d26d2e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Чек-листы. 29 апреля 2025.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "1923ec005b6aed77",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "float-search:Search Obsidian In Modal": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "1923ec005b6aed77",
+  "lastOpenFiles": [
+    "Здоровый обхват живота. 9 апреля 2025.md",
+    "Чек-листы. 29 апреля 2025.md",
+    "Тайная опора. 13 ноября 2024.md",
+    "Мои жизненные ценности. 6 августа 2018.md",
+    "Распределенная работа. 20 апреля 2017.md",
+    "Sprint.md",
+    "Какие конференции по тестированию вы в последнее время посещали? 20 февраля 2018.md",
+    "Ценности. 13-16.01.2025.md",
+    "Job Session.md",
+    "One file.md",
+    "OneFile.md",
+    "To finish the job. Value.md",
+    "Vacation 30 December - 12 January.md",
+    "Test. Fail. 2024.12.31.1659.md",
+    "Initiative. Value.md",
+    "Resourcefulness. Value.md",
+    "Honesty and sincerity. Principles.md",
+    "Openness. Value.md",
+    "Some time apart from my wife.md",
+    "Sprint 2024.09.23-10.06.md",
+    "Просмотр массового уведомления.md",
+    "Wifi.md",
+    "Epic. Productive Happy Week Organization Framework.md",
+    "Untitled 3.md",
+    "log.md",
+    "Untitled 2.md"
+  ]
+}
