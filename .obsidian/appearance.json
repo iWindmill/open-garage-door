@@ -10,5 +10,6 @@
   "baseFontSize": 20,
   "showRibbon": false,
   "textFontFamily": "JetBrains Mono",
-  "interfaceFontFamily": "JetBrains Mono"
+  "interfaceFontFamily": "JetBrains Mono",
+  "theme": "obsidian"
 }
