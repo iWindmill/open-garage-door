@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99f40c1015b7441a",
+            "id": "76a29d582618b138",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "5f09160ccde970a3",
+            "id": "4ab7e69fd3c959cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2026-01-08-0542.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -38,13 +38,13 @@
             }
           },
           {
-            "id": "fe21e49252768abb",
+            "id": "48c0c6de5d9ecb7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2026-01-11-1107.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -53,22 +53,52 @@
             }
           },
           {
-            "id": "4a1ce863b913b0d0",
+            "id": "065f35fff6e3ad64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-01-10-1656.md",
+                "file": "2026-01-11-1911.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-10-1656"
+              "title": "2026-01-11-1911"
+            }
+          },
+          {
+            "id": "fd9c12dd64266eb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-01-11-1812.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-11-1812"
+            }
+          },
+          {
+            "id": "bcb120ecb57aebcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-01-11-1814.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-11-1814"
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -143,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-01-11-1107.md",
+                "file": "2026-01-11-1812.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-01-11-1107"
+              "title": "Backlinks for 2026-01-11-1812"
             }
           }
         ]
@@ -173,12 +203,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "fe21e49252768abb",
+  "active": "fd9c12dd64266eb2",
   "lastOpenFiles": [
-    "2026-01-10-1656.md",
+    "2026-01-11-1814.md",
+    "2026-01-11-1812.md",
     "2026-01-11-1107.md",
     "2026-01-08-0542.md",
+    "2026-01-11-1911.md",
     "index.md",
+    "2026-01-10-1656.md",
     "2026-01-11-1100.md",
     "2026-01-10-1743.md",
     "2026-01-10-1721.md",
@@ -198,9 +231,6 @@
     "2026-01-04-2209.md",
     "2026-01-04-2201.md",
     "01-04-2026_09-35.md",
-    "01-04-2026_09-28.md",
-    "01-04-2026_09-30.md",
-    "01-04-2026_09-24.md",
     "Карты того, что должно быть, или ценностей. 28 ноября 2025.beamer.tex",
     "Support 24",
     "2024.10.17.1300.har",
