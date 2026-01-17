@@ -53,6 +53,36 @@
             }
           },
           {
+            "id": "b3cf89f8b9f95c2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-01-17-1542.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-17-1542"
+            }
+          },
+          {
+            "id": "0098905f36e709a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-01-17-1550.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-17-1550"
+            }
+          },
+          {
             "id": "ca2bc2d4ee9e3377",
             "type": "leaf",
             "state": {
@@ -65,21 +95,6 @@
               },
               "icon": "lucide-file",
               "title": "2026-01-11-1911"
-            }
-          },
-          {
-            "id": "a85f0bf69ca3cb82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-01-13-1835.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-13-1835"
             }
           }
         ],
@@ -188,13 +203,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a85f0bf69ca3cb82",
+  "active": "0098905f36e709a9",
   "lastOpenFiles": [
+    "2026-01-17-1542.md",
+    "2026-01-17-1550.md",
+    "2026-01-11-1814.md",
     "2026-01-08-0542.md",
+    "2026-01-11-1911.md",
     "2026-01-13-1835.md",
     "2026-01-13-1815.md",
-    "2026-01-11-1814.md",
-    "2026-01-11-1911.md",
     "2026-01-12-1939.md",
     "2026-01-11-1812.md",
     "index.md",
@@ -214,8 +231,6 @@
     "2026-01-04-1737.md",
     "2026-01-04-2210-ease-of-use-of-the-living-room.md",
     "2026-01-04-1748.md",
-    "2026-01-04-2211.md",
-    "2026-01-04-1751.md",
     "Карты того, что должно быть, или ценностей. 28 ноября 2025.beamer.tex",
     "Support 24",
     "2024.10.17.1300.har",
