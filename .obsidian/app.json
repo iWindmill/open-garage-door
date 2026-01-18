@@ -11,5 +11,7 @@
   "spellcheck": false,
   "foldHeading": true,
   "showInlineTitle": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
 }
